@@ -1,4 +1,4 @@
-import { SingInButton } from '../SignInButton'
+import { SignInButton } from '../SignInButton'
 import { ActiveLink } from '../ActiveLink'
 import Image from 'next/image'
 import styles from './styles.module.scss'
@@ -17,7 +17,7 @@ export function Header() {
                         <a>Posts</a>
                     </ActiveLink>
                 </nav>
-                <SingInButton />
+                <SignInButton />
             </div>
         </header>
     )

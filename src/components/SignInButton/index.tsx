@@ -4,7 +4,7 @@ import { signIn, signOut, useSession } from 'next-auth/client'
 
 import styles from './styles.module.scss'
 
-export function SingInButton() {
+export function SignInButton() {
     const [session] = useSession()
 
     return session ? (
@@ -24,7 +24,7 @@ export function SingInButton() {
             onClick={() => signIn('github')}
         >
             <FaGithub color='#eba417'/>
-            Sing in with GitHub
+            Sign in with GitHub
         </button>
     )
 }
