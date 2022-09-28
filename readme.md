@@ -1,1 +1,1 @@
-Leia
+Leia tudo
