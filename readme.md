@@ -1,7 +1,6 @@
 # Ignews
 
-Ignews - Next.js webapp made while i was taking the Rocketseat React Course, with the intent of learning about features of Next and its SSR as well as authentication and
-payment using the stripe API.
+Ignews - Next.js webapp made while i was taking the Rocketseat React Course, with the intent of learning about features of Next and its SSR as well as authentication with github and payment using the stripe API.
 
 ## Access live build
 <a>https://ignews-three-rho.vercel.app/</a>
